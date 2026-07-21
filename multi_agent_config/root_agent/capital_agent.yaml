@@ -1,0 +1,5 @@
+agent_class: LlmAgent
+name: capitalAgent
+description: A helpful assistant for users questions
+instruction: Please Provide the capital information for given Country
+model: openai/openai/gpt-oss-120b

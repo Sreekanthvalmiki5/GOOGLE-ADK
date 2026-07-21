@@ -1,0 +1,5 @@
+agent_class: LlmAgent
+name: papulationAgent
+description: A helpful assistant for users questions
+instruction: Please Provide the Papulatioin information for given Country
+model: openai/openai/gpt-oss-120b

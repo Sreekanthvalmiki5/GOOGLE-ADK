@@ -1,0 +1,6 @@
+agent_class: LlmAgent
+name: papulation_agent
+description: A helpful assistant for user questions.
+instruction: Please Provide the papulation  information of the given {capital_city}
+model: openai/openai/gpt-oss-120b
+
